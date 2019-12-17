@@ -1,4 +1,4 @@
-package offset
+package pagination
 
 import "strconv"
 
